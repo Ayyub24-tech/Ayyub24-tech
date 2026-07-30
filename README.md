@@ -1,14 +1,6 @@
 # 💫 About Me:
  Hi there! 👋<br><br>I'm a passionate developer who enjoys learning new technologies and building useful applications. I love turning ideas into real projects while continuously improving my programming and problem-solving skills.<br><br>🚀 About Me<br><br>* 💻 Passionate about Web Development, Backend Development, and Automation.<br>* 🌱 Currently learning modern frameworks, software architecture, and best development practices.<br>* 🔭 Always exploring new technologies and contributing to open-source projects.<br>* 🏀 Beyond coding, I'm also a basketball player who enjoys teamwork, discipline, and continuous improvement—both on the court and in development.<br>* 🤝 Open to collaborating on interesting and impactful projects.<br>* 🎯 My goal is to build scalable applications while growing as a developer and lifelong learner.<br><br>🛠 Tech Interests<br><br>* Web Development<br>* Backend Development<br>* REST API<br>* Database Design<br>* Cloud & DevOps<br>* Open Source<br><br>📫 Let's Connect<br><br>Feel free to explore my repositories, share feedback, or collaborate on exciting projects. I'm always happy to learn, exchange ideas, and connect with fellow developers.<br>
 
- <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayyub24-tech/Ayyub24-tech/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayyub24-tech/Ayyub24-tech/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ayyub24-tech/Ayyub24-tech/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/SkyYubb24) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayb.mars) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@risolkiss) 
