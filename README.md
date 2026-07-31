@@ -123,8 +123,8 @@ and continuously improving my programming and problem-solving skills.
 
 # 🏆 GitHub Trophies
 <div align="center">
-
-[<img src="https://github-profile-trophy.vercel.app/?username=Ayyub24-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>](https://github-profile-trophy.vercel.app/?username=Ayyub24-tech)
+  
+https://github-profile-trophy.vercel.app/?username=Ayyub24-tech&theme=dracula&row=1&column=6
 
 </div>
 
