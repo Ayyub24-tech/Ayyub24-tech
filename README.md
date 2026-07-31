@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Ayyub 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
 
 ### 💻 Software Developer | 🌐 Web Enthusiast | 🏀 Basketball Player
 
