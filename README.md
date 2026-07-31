@@ -124,7 +124,7 @@ and continuously improving my programming and problem-solving skills.
 # 🏆 GitHub Trophies
 <div align="center">
   
-https://github-profile-trophy.vercel.app/?username=Ayyub24-tech&theme=dracula&row=1&column=6
+<img src="https://github-profile-trophy.vercel.app/?username=Ayyub24-tech&theme=dracula&row=1&column=6">
 
 </div>
 
