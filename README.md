@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+  <img src="assets/fdba04f9-0db5-4f52-8b25-f65ac957ac22.png" alt="Banner" width="100%">
 </p>
 
 ### 💻 Software Developer | 🌐 Web Enthusiast | 🏀 Basketball Player
