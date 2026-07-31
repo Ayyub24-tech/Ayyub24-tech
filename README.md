@@ -4,12 +4,17 @@
   <img src="assets/fdba04f9-0db5-4f52-8b25-f65ac957ac22.png" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ayyub+%F0%9F%91%8B;Future+Software+Engineer;Basketball+Player+%F0%9F%8F%80;Always+Learning+New+Things;Building+One+Commit+At+A+Time"/>
+</p>
+</p>
 ### 💻 Software Developer | 🌐 Web Enthusiast | 🏀 Basketball Player
 
 I'm passionate about building useful applications, learning modern technologies,
 and continuously improving my programming and problem-solving skills.
 
 </div>
+
 
 ---
 
@@ -144,6 +149,8 @@ and continuously improving my programming and problem-solving skills.
 
 <img src="https://komarev.com/ghpvc/?username=Ayyub24-tech&style=for-the-badge&color=0e75b6"/>
 
-### Thanks for visiting! ⭐
+### "Code. Learn. Build. Repeat."
+
+— Ayyub
 
 </div>
