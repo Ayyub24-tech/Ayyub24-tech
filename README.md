@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ayyub+%F0%9F%91%8B;Future+Software+Engineer;Basketball+Player+%F0%9F%8F%80;Always+Learning+New+Things;Building+One+Commit+At+A+Time"/>
 </p>
-</p>
+
 ### 💻 Software Developer | 🌐 Web Enthusiast | 🏀 Basketball Player
 
 I'm passionate about building useful applications, learning modern technologies,
